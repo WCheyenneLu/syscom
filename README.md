@@ -2,8 +2,8 @@
 Due to NDA, this repository only contains screenshots and descriptions of the work I did during my internship at The Syscom Group (Taipei).
 
 ## Home Page
-<img width="720" height="382" alt="Screenshot 2025-08-29 at 6 13 33 PM" src="https://github.com/user-attachments/assets/a605dfd7-630c-4b95-b3c5-28a15d593cec" />
-<img width="720" height="382" alt="Screenshot 2025-08-29 at 6 14 58 PM" src="https://github.com/user-attachments/assets/27146854-7d8b-4124-a284-ce7bf91a8b0b" />
+<img width="700" height="360" alt="Screenshot 2025-08-29 at 6 13 33 PM" src="https://github.com/user-attachments/assets/a605dfd7-630c-4b95-b3c5-28a15d593cec" />
+<img width="700" height="360" alt="Screenshot 2025-08-29 at 6 14 58 PM" src="https://github.com/user-attachments/assets/27146854-7d8b-4124-a284-ce7bf91a8b0b" />
 
 ## Data Dashboard 
 - live visualizations with customizable types (bar chart, pie chart etc.)
